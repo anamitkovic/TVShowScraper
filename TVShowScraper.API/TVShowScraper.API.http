@@ -1,0 +1,6 @@
+@TVShowScraper.API_HostAddress = http://localhost:5152
+
+GET {{TVShowScraper.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
